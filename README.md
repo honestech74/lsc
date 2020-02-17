@@ -6,5 +6,6 @@ Usage:
     $ python leastsquare.py <.data file> <.train file>
 Output:
     Write the results to output.labels
-    
-Copyleft@2020.
+
+For example:
+    $ python leastsquare.py ionosphere/ionosphere.data ionosphere/iohosphere.trainlabels
