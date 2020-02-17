@@ -1,0 +1,2 @@
+# lsc
+Least square classifier
